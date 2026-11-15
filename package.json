@@ -1,0 +1,13 @@
+{
+  "name": "the-unknown",
+  "version": "1.0.0",
+  "description": "THE UNKNOWN - a bilingual (EN/HY) discovery app. Dependency-free HTML/CSS/JavaScript (index.html, style.css, script.js).",
+  "private": true,
+  "main": "index.html",
+  "scripts": {
+    "start": "npx --yes serve . -l 3000",
+    "serve:python": "python3 -m http.server 3000"
+  },
+  "author": "Rob Vardanyan",
+  "license": "UNLICENSED"
+}
